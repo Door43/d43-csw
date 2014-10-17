@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csw:home|Door43 (csw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csw|d43-csw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csw/archive/master.zip|d43-csw.zip]]
+
+**Recent Changes**
+{{changes>ns = csw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csw|Ethnologue data]]
+
